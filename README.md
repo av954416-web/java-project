@@ -8,6 +8,11 @@ It allows customers to rent cars, manage bookings, and view rental details while
 Project link here:
 https://643b99ee-0324-4e4b-8cd0-08721c0eef08-00-q3g4n9e2qzj7.picard.replit.dev/
 
+## 📦 Download the Project
+
+You can download the complete project as a ZIP file here:  
+[➡️ Click to Download DriveAway.zip](./DriveAway.zip)
+
 
 This project showcases strong use of **Object-Oriented Programming (OOP)** principles, **file handling**, and a clean console-based user interface.
 
