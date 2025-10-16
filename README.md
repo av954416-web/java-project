@@ -3,7 +3,10 @@
 
 ### 🧩 Overview  
 **DriveAway** is a Java-based **Car Rental System** designed to simplify vehicle booking and management.  
-It allows customers to rent cars, manage bookings, and view rental details while providing administrators with tools to handle inventory and customer data efficiently.  
+It allows customers to rent cars, manage bookings, and view rental details while providing administrators with tools to handle inventory and customer data efficiently.
+
+Project link here:
+https://643b99ee-0324-4e4b-8cd0-08721c0eef08-00-q3g4n9e2qzj7.picard.replit.dev/
 
 
 This project showcases strong use of **Object-Oriented Programming (OOP)** principles, **file handling**, and a clean console-based user interface.
